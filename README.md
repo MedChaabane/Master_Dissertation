@@ -1,4 +1,4 @@
-# End-to-end learning framework for circular RNA classiﬁcation from other long non-coding RNAs using multi-modal deep learning.([code available in python](https://github.com/UofLBioinformatics/circDeep))
+# End-to-end learning framework for circular RNA classiﬁcation from other long non-coding RNAs using multi-modal deep learning.[(code available in python)](https://github.com/UofLBioinformatics/circDeep)
 
 
 # Keywords
