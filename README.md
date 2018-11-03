@@ -2,7 +2,7 @@
 
 
 # Keywords
-sequence models, Assymetric convolutional neural network, BLSTM, Feature fusion learning
+sequence models, embedding wordtovector, Assymetric convolutional neural network, BLSTM, Feature fusion learning
 # Abstract
 Over the past two decades, a circular form of RNA (circular RNA) produced from splicing
 mechanism has become the focus of scientific studies due to its major role as a microRNA (miR) ac-
